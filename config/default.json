@@ -1,0 +1,7 @@
+{
+  "mongoURI": "",
+  "jwtSecret": "",
+  "image_directory": "",
+  "image_web_path": "",
+  "profile_directory": ""
+}
