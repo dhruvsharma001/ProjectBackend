@@ -94,4 +94,4 @@ Api token for the delhivery API
 
 Backend has Models defined for all data ie Sales Orders, Customer , Products in inventory , Logs , Expenses. 
 API’s for CRUD and other operations on the Sale orders, inventory Products, Customer, etc 
-The project utilizes the multer middleware in the backend. Multer is a middleware for handling multipart/form-data, primarily used for uploading files. In the context of our project, it is used for handling CSV file uploads and image uploads.
+The project utilizes the multer middleware in the backend. Multer is a middleware for handling multipart/form-data, primarily used for uploading files. In the context of project, it is used for handling CSV file uploads and image uploads.
